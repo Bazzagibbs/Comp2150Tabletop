@@ -1,3 +1,4 @@
+# Assignment 2: Tabletop Game Design Specification
 ## Objective
 This assignment is intended to test your ability to design and playtest original gameplay mechanics. The focus of this game will be on multiplayer interaction through manipulating a resource economy. Your aim will be to create game dynamics which provide the players with interesting choices and a rich space of strategies. 
 
